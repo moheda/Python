@@ -1,2 +1,2 @@
 # Python
-学习Python的小项目
+学习Python的一些笔记
